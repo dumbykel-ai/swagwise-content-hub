@@ -5,18 +5,14 @@ import { getArticleBySlug, getAllSlugs, getRelatedArticles, getClustersByPillar 
 import ArticleCard from '@/components/ArticleCard'
 
 interface PageProps {
-interface PageProps {
   params: Promise<{ slug: string }>
 }
-}
 
-// Generate static params for all articles
 export async function generateStaticParams() {
   const slugs = getAllSlugs()
   return slugs.map((slug) => ({ slug }))
 }
 
-// Generate metadata for SEO
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { slug } = await params
   const article = await getArticleBySlug(slug)
@@ -60,7 +56,6 @@ export default async function ArticlePage({ params }: PageProps) {
   const relatedArticles = getRelatedArticles(slug, 4)
   const clusterArticles = article.isPillar ? getClustersByPillar(article.slug) : []
 
-  // JSON-LD structured data
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -90,7 +85,6 @@ export default async function ArticlePage({ params }: PageProps) {
 
   return (
     <>
-      {/* JSON-LD Script */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
@@ -98,7 +92,6 @@ export default async function ArticlePage({ params }: PageProps) {
 
       <article className="py-12">
         <div className="container-blog">
-          {/* Breadcrumb */}
           <nav className="mb-8 text-sm">
             <ol className="flex items-center space-x-2 text-gray-500">
               <li>
@@ -115,7 +108,6 @@ export default async function ArticlePage({ params }: PageProps) {
             </ol>
           </nav>
 
-          {/* Article Header */}
           <header className="mb-12">
             <div className="flex items-center gap-3 mb-4">
               <span className={`badge ${article.isPillar ? 'bg-swagwise-primary text-white' : 'badge-primary'}`}>
@@ -145,7 +137,6 @@ export default async function ArticlePage({ params }: PageProps) {
             </div>
           </header>
 
-          {/* Table of Contents for Pillars */}
           {article.isPillar && clusterArticles.length > 0 && (
             <div className="bg-swagwise-light rounded-xl p-6 mb-12">
               <h2 className="text-lg font-bold text-swagwise-dark mb-4">
@@ -166,13 +157,11 @@ export default async function ArticlePage({ params }: PageProps) {
             </div>
           )}
 
-          {/* Article Content */}
           <div 
             className="article-content"
             dangerouslySetInnerHTML={{ __html: article.contentHtml }}
           />
 
-          {/* CTA Box */}
           <div className="cta-box my-12">
             <h3>Ready to Transform Your Wardrobe?</h3>
             <p>
@@ -184,7 +173,6 @@ export default async function ArticlePage({ params }: PageProps) {
             </a>
           </div>
 
-          {/* Related Articles */}
           {relatedArticles.length > 0 && (
             <section className="mt-16 pt-12 border-t border-gray-200">
               <h2 className="text-2xl font-bold text-swagwise-dark mb-8">
@@ -207,7 +195,6 @@ export default async function ArticlePage({ params }: PageProps) {
             </section>
           )}
 
-          {/* Back to Blog */}
           <div className="mt-12 text-center">
             <Link href="/blog" className="btn-secondary">
               ← Back to All Articles
