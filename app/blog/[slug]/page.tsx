@@ -5,7 +5,9 @@ import { getArticleBySlug, getAllSlugs, getRelatedArticles, getClustersByPillar 
 import ArticleCard from '@/components/ArticleCard'
 
 interface PageProps {
-  params: { slug: string }
+interface PageProps {
+  params: Promise<{ slug: string }>
+}
 }
 
 // Generate static params for all articles
@@ -16,7 +18,8 @@ export async function generateStaticParams() {
 
 // Generate metadata for SEO
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const article = await getArticleBySlug(params.slug)
+  const { slug } = await params
+  const article = await getArticleBySlug(slug)
   
   if (!article) {
     return {
@@ -47,13 +50,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 }
 
 export default async function ArticlePage({ params }: PageProps) {
-  const article = await getArticleBySlug(params.slug)
+  const { slug } = await params
+  const article = await getArticleBySlug(slug)
   
   if (!article) {
     notFound()
   }
 
-  const relatedArticles = getRelatedArticles(params.slug, 4)
+  const relatedArticles = getRelatedArticles(slug, 4)
   const clusterArticles = article.isPillar ? getClustersByPillar(article.slug) : []
 
   // JSON-LD structured data
