@@ -1,6 +1,6 @@
 ---
 title: "I Hate How I Look in Photos: The Real Reason Why"
-description: "You look in the mirror and think, "Okay, this outfit works." You feel good. You leave the house confident."
+description: "You look in the mirror and feel good about your outfit, then see a photo and wonder who that person is. Heres why photos feel different."
 slug: "i-hate-how-i-look-in-photos-the-real-reason-why"
 date: "2025-01-12"
 author: "Swagwise Team"
