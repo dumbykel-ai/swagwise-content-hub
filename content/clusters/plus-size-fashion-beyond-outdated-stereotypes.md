@@ -1,6 +1,6 @@
 ---
 title: "Plus Size Fashion: Beyond Outdated Stereotypes"
-description: "Traditional plus-size rules restrict options and undermine confidence. Users who abandon "minimizing" goals report 47% higher confidence. Modern approach inside"
+description: "Traditional plus-size rules restrict options and undermine confidence. Users who abandon minimizing goals report 47% higher confidence. Modern approach inside."
 slug: "plus-size-fashion-beyond-outdated-stereotypes"
 date: "2025-01-12"
 author: "Swagwise Team"
