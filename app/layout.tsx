@@ -17,6 +17,7 @@ export const metadata: Metadata = {
   authors: [{ name: 'Swagwise Team' }],
   creator: 'Swagwise',
   publisher: 'Swagwise',
+  verification: { google: 'rGkfmmG9Acmdc7HcLt1kRgjhbq3LCV-F0tUzfoXSge0' },
   openGraph: {
     type: 'website',
     locale: 'en_US',
