@@ -1,6 +1,6 @@
 ---
 title: "What to Wear When You're Feeling Down? Here's the Science"
-description: "68% of people have "low mood dressing patterns" that deepen emotional difficulty. Learn the science of comfort + structure for better mood outcomes through stra"
+description: "68% of people have low mood dressing patterns that deepen emotional difficulty. Learn the science of comfort plus structure for better mood outcomes."
 slug: "what-to-wear-when-youre-feeling-down-heres-the-science"
 date: "2025-01-12"
 author: "Swagwise Team"
