@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next'
 import { getAllArticles } from '@/lib/articles'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://swagwise.com'
+const baseUrl = 'https://swagwise-content-hub.vercel.app'
   const articles = getAllArticles()
 
   // Static pages
