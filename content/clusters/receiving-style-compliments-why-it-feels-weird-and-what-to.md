@@ -1,6 +1,6 @@
 ---
 title: "Receiving Style Compliments: Why It Feels Weird (And What to Do)"
-description: "Someone says, "I love your outfit!""
+description: "Someone compliments your outfit and instead of feeling good, you feel awkward. Learn why accepting style compliments feels weird and what to do."
 slug: "receiving-style-compliments-why-it-feels-weird-and-what-to"
 date: "2025-01-12"
 author: "Swagwise Team"
