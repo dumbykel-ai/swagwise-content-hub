@@ -1,6 +1,6 @@
 ---
 title: "Investment Pieces: Which Ones Actually Have ROI?"
-description: "67% of "investment pieces" fail to deliver returns. Data shows what actually pays off: outerwear ($0.45 CPW), shoes ($0.40 CPW), blazers ($0.65 CPW). Full analy"
+description: "67% of investment pieces fail to deliver returns. Data shows what actually pays off: outerwear, shoes, and blazers have the best cost per wear. Full analysis."
 slug: "investment-pieces-which-ones-actually-have-roi"
 date: "2025-01-12"
 author: "Swagwise Team"
