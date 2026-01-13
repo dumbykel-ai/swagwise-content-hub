@@ -1,6 +1,6 @@
 ---
 title: "Style Confidence for Introverts: Different Rules Apply"
-description: "The fashion advice you find everywhere says: "Be bold! Stand out! Express yourself! Make a statement!""
+description: "Fashion advice says be bold and stand out, but introverts need different rules. Learn how to build authentic style confidence without the noise."
 slug: "style-confidence-for-introverts-different-rules-apply"
 date: "2025-01-12"
 author: "Swagwise Team"
