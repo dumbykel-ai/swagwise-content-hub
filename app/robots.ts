@@ -28,6 +28,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
       },
     ],
-    sitemap: 'https://swagwise.com/sitemap.xml',
+https://swagwise-content-hub.vercel.app/sitemap.xml
   }
 }
