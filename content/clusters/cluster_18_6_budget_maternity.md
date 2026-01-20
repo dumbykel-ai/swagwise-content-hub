@@ -1,3 +1,15 @@
+---
+title: "Maternity Work Clothes on a Budget: What to Buy and Where"
+description: "A professional maternity wardrobe can be built for $300-500 through strategic purchasing: 2-3 dresses from Target or Old Navy ($25-40 each), 2 pair..."
+slug: "6-budget-maternity"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "16 min read"
+pillar: "maternity-style-guide"
+---
 # Maternity Work Clothes on a Budget: What to Buy and Where
 
 ## The Quick Answer

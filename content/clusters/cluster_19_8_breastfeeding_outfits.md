@@ -1,3 +1,15 @@
+---
+title: "Breastfeeding-Friendly Professional Outfits"
+description: "Breastfeeding-friendly professional outfits combine easy nursing access with polished appearance through button-down shirts, wrap styles, layered t..."
+slug: "8-breastfeeding-outfits"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "14 min read"
+pillar: "postpartum-style-guide"
+---
 # Breastfeeding-Friendly Professional Outfits
 
 ## The Quick Answer

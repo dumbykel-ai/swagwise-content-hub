@@ -1,3 +1,15 @@
+---
+title: "Summer vs. Winter Maternity Work Wardrobes: Seasonal Professional Dressing Strategies"
+description: "Summer maternity workwear prioritizes breathability and cooling: lightweight cotton or linen dresses, sleeveless or short-sleeve tops, open-toe sho..."
+slug: "10-seasonal"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "14 min read"
+pillar: "maternity-style-guide"
+---
 # Summer vs. Winter Maternity Work Wardrobes: Seasonal Professional Dressing Strategies
 
 ## The Quick Answer

@@ -1,3 +1,15 @@
+---
+title: "What to Wear Your First Week Back to Work After Baby"
+description: "Your first week back to work after baby requires a pre-planned wardrobe of five complete, tested outfits that prioritize comfort, functionality, an..."
+slug: "1-first-week-back"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "14 min read"
+pillar: "returning-to-office-style"
+---
 # What to Wear Your First Week Back to Work After Baby
 
 ## The Quick Answer

@@ -1,3 +1,15 @@
+---
+title: "C-Section Recovery Clothing for Work"
+description: "C-section recovery clothing for work requires specific considerations: no pressure on the incision site for 6-8 weeks minimum, high-waisted or very..."
+slug: "10-csection-recovery"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "13 min read"
+pillar: "postpartum-style-guide"
+---
 # C-Section Recovery Clothing for Work
 
 ## The Quick Answer

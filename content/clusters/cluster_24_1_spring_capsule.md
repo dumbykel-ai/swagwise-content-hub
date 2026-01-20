@@ -1,3 +1,15 @@
+---
+title: "Spring Capsule Wardrobe for Work"
+description: "A spring capsule wardrobe for work consists of 20-25 versatile, coordinating pieces that handle spring's unpredictable weather while creating 75+ p..."
+slug: "1-spring-capsule"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "10 min read"
+pillar: "spring-wardrobe-guide"
+---
 # Spring Capsule Wardrobe for Work
 
 ## The Quick Answer

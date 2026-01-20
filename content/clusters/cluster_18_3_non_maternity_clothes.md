@@ -1,3 +1,15 @@
+---
+title: "The Best Non-Maternity Clothes That Work for Early Pregnancy"
+description: "The best non-maternity clothes for early pregnancy share key features: elastic or stretchy waistbands, forgiving silhouettes that don't define the ..."
+slug: "3-non-maternity-clothes"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "11 min read"
+pillar: "maternity-style-guide"
+---
 # The Best Non-Maternity Clothes That Work for Early Pregnancy
 
 ## The Quick Answer

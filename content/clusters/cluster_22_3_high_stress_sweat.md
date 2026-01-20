@@ -1,3 +1,15 @@
+---
+title: "Managing Sweat in High-Stress Work Situations"
+description: "High-stress work situations—presentations, interviews, important meetings—trigger a specific type of sweating that requires targeted preparation be..."
+slug: "3-high-stress-sweat"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "12 min read"
+pillar: "hiding-sweat-clothing"
+---
 # Managing Sweat in High-Stress Work Situations
 
 ## The Quick Answer

@@ -1,3 +1,15 @@
+---
+title: "Rebuilding Your Work Wardrobe After Maternity Leave"
+description: "Rebuilding your work wardrobe after maternity leave should be a phased process—not a single shopping spree—that accounts for ongoing body changes, ..."
+slug: "3-rebuilding-wardrobe"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "14 min read"
+pillar: "returning-to-office-style"
+---
 # Rebuilding Your Work Wardrobe After Maternity Leave
 
 ## The Quick Answer

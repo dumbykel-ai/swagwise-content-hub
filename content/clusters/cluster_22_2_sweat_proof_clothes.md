@@ -1,3 +1,15 @@
+---
+title: "Sweat-Proof Work Clothes and Fabrics"
+description: "Sweat-proof work clothes combine moisture-wicking fabrics that move sweat away from your body, quick-dry properties that prevent lingering dampness..."
+slug: "2-sweat-proof-clothes"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "12 min read"
+pillar: "hiding-sweat-clothing"
+---
 # Sweat-Proof Work Clothes and Fabrics
 
 ## The Quick Answer

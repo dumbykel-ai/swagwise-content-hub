@@ -1,3 +1,15 @@
+---
+title: "Vacation Capsule Wardrobe for a Week"
+description: "A one-week vacation capsule wardrobe consists of 15-18 carefully coordinated pieces that create 20+ outfit combinations while fitting comfortably i..."
+slug: "1-vacation-capsule"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "8 min read"
+pillar: "vacation-packing-guide"
+---
 # Vacation Capsule Wardrobe for a Week
 
 ## The Quick Answer

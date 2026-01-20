@@ -1,3 +1,15 @@
+---
+title: "Nursing-Friendly Work Clothes That Don't Look Maternity"
+description: "Nursing-friendly work clothes that maintain professional appearance include wrap dresses, button-down shirts, layered tank-and-cardigan combination..."
+slug: "1-nursing-friendly-work"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "14 min read"
+pillar: "postpartum-style-guide"
+---
 # Nursing-Friendly Work Clothes That Don't Look Maternity
 
 ## The Quick Answer

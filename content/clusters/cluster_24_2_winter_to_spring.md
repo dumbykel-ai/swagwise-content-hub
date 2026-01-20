@@ -1,3 +1,15 @@
+---
+title: "Transitioning Your Wardrobe from Winter to Spring"
+description: "Transitioning your wardrobe from winter to spring is a gradual process of introducing lighter layers, adjusting color palettes, and adapting to tem..."
+slug: "2-winter-to-spring"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "8 min read"
+pillar: "spring-wardrobe-guide"
+---
 # Transitioning Your Wardrobe from Winter to Spring
 
 ## The Quick Answer

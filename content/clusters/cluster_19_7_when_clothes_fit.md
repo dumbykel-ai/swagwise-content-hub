@@ -1,3 +1,15 @@
+---
+title: "When Will My Clothes Fit Again After Baby"
+description: "The timeline for fitting pre-pregnancy clothes varies dramatically by individual, but realistic expectations center on 9-18 months for those who do..."
+slug: "7-when-clothes-fit"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "14 min read"
+pillar: "postpartum-style-guide"
+---
 # When Will My Clothes Fit Again After Baby
 
 ## The Quick Answer

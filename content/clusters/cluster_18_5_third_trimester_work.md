@@ -1,3 +1,15 @@
+---
+title: "What to Wear to Work in Your Third Trimester When Nothing Fits"
+description: "Third trimester work dressing prioritizes comfort and function while maintaining professional appearance through: stretchy knit dresses, maternity ..."
+slug: "5-third-trimester-work"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "15 min read"
+pillar: "maternity-style-guide"
+---
 # What to Wear to Work in Your Third Trimester When Nothing Fits
 
 ## The Quick Answer

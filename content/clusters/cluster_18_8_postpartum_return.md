@@ -1,3 +1,15 @@
+---
+title: "What to Wear When Returning to Work After Having a Baby"
+description: "Postpartum return-to-work clothing requires: elastic waistbands or drawstring pants (your body hasn't returned to pre-pregnancy size yet), nursing-..."
+slug: "8-postpartum-return"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "14 min read"
+pillar: "maternity-style-guide"
+---
 # What to Wear When Returning to Work After Having a Baby
 
 ## The Quick Answer

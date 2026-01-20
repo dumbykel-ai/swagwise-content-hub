@@ -1,3 +1,15 @@
+---
+title: "What to Wear When Your Pre-Pregnancy Clothes Don't Fit"
+description: "When pre-pregnancy clothes don't fit postpartum, the solution isn't forcing yourself into too-small items or resigning yourself to shapeless matern..."
+slug: "2-clothes-dont-fit"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "16 min read"
+pillar: "postpartum-style-guide"
+---
 # What to Wear When Your Pre-Pregnancy Clothes Don't Fit
 
 ## The Quick Answer

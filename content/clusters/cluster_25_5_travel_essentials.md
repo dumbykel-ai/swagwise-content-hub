@@ -1,3 +1,15 @@
+---
+title: "Travel Wardrobe Essentials: The Must-Pack Pieces for Any Trip"
+description: "Travel wardrobe essentials are versatile, durable, easy-care pieces that work across multiple destinations, climates, and occasions—the foundation ..."
+slug: "5-travel-essentials"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "9 min read"
+pillar: "vacation-packing-guide"
+---
 # Travel Wardrobe Essentials: The Must-Pack Pieces for Any Trip
 
 ## The Quick Answer

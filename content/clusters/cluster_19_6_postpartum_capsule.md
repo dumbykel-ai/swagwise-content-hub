@@ -1,3 +1,15 @@
+---
+title: "Postpartum Capsule Wardrobe for Work"
+description: "A postpartum capsule wardrobe for work consists of 12-15 strategically chosen pieces that accommodate a changing body, potential nursing needs, and..."
+slug: "6-postpartum-capsule"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "15 min read"
+pillar: "postpartum-style-guide"
+---
 # Postpartum Capsule Wardrobe for Work
 
 ## The Quick Answer

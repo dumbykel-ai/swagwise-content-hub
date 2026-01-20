@@ -1,3 +1,15 @@
+---
+title: "Which Maternity Clothes Actually Work Postpartum: Maximizing Your Investment"
+description: "Maternity clothes that work postpartum share key characteristics: stretchy fabrics with good recovery, adjustable features (wrap styles, elastic wa..."
+slug: "9-postpartum-roi"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "13 min read"
+pillar: "maternity-style-guide"
+---
 # Which Maternity Clothes Actually Work Postpartum: Maximizing Your Investment
 
 ## The Quick Answer

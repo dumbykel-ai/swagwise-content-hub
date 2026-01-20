@@ -1,3 +1,15 @@
+---
+title: "Postpartum Body Image and Getting Dressed"
+description: "Postpartum body image challenges are nearly universal—Swagwise analysis of 2,300 postpartum women shows 84% experience significant body image diffi..."
+slug: "9-body-image"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "15 min read"
+pillar: "postpartum-style-guide"
+---
 # Postpartum Body Image and Getting Dressed
 
 ## The Quick Answer

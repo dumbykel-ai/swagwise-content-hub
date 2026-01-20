@@ -1,3 +1,15 @@
+---
+title: "Maternity Suits and Professional Formalwear: Interviews, Presentations, and High-Stakes Situations"
+description: "A maternity suit for professional situations requires: a quality maternity blazer that closes comfortably ($80-150), maternity dress pants or a pen..."
+slug: "7-maternity-suits"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "15 min read"
+pillar: "maternity-style-guide"
+---
 # Maternity Suits and Professional Formalwear: Interviews, Presentations, and High-Stakes Situations
 
 ## The Quick Answer

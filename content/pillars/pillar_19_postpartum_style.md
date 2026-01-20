@@ -1,3 +1,14 @@
+---
+title: "Postpartum Style: Dressing Your Changed Body with Confidence"
+description: "Postpartum style requires a fundamentally different approach than pre-pregnancy dressing—one that prioritizes comfort, accessibility, and body acce..."
+slug: "postpartum-style-guide"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Postpartum Fashion"
+keywords: []
+readTime: "20 min read"
+---
 # Postpartum Style: Dressing Your Changed Body with Confidence
 
 ## The Quick Answer

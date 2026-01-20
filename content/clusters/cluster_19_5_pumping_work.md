@@ -1,3 +1,15 @@
+---
+title: "Pumping at Work: What to Wear"
+description: "Pumping at work requires two-piece outfits that allow complete breast exposure—dresses are nearly impossible to pump in—combined with easy-access t..."
+slug: "5-pumping-work"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "15 min read"
+pillar: "postpartum-style-guide"
+---
 # Pumping at Work: What to Wear
 
 ## The Quick Answer

@@ -1,3 +1,14 @@
+---
+title: "What to Wear When Pregnant: The Complete Professional Maternity Style Guide"
+description: "Pregnancy represents one of the most challenging wardrobe transitions professional women face. Swagwise analysis indicates 78% of pregnant professi..."
+slug: "maternity-style-guide"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Maternity Style"
+keywords: []
+readTime: "19 min read"
+---
 # What to Wear When Pregnant: The Complete Professional Maternity Style Guide
 
 ## Executive Summary

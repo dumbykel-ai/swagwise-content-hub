@@ -1,3 +1,14 @@
+---
+title: "Returning to Office After Maternity Leave: The Complete Wardrobe Guide"
+description: "Returning to the office after maternity leave requires a wardrobe strategy that accounts for a changed body, potential nursing or pumping needs, se..."
+slug: "returning-to-office-guide"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Work Style"
+keywords: []
+readTime: "17 min read"
+---
 # Returning to Office After Maternity Leave: The Complete Wardrobe Guide
 
 ## The Quick Answer

@@ -1,3 +1,15 @@
+---
+title: "Layering for Unpredictable Spring Weather"
+description: "Effective spring layering uses a strategic three-layer system—breathable base, adjustable middle, and protective outer—that adapts to temperature s..."
+slug: "3-spring-layering"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "10 min read"
+pillar: "spring-wardrobe-guide"
+---
 # Layering for Unpredictable Spring Weather
 
 ## The Quick Answer

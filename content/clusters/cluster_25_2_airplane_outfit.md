@@ -1,3 +1,15 @@
+---
+title: "What to Wear on the Plane for Vacation"
+description: "The ideal plane outfit balances comfort for long flights, appropriate style for arrival, and strategic packing efficiency by wearing your bulkiest ..."
+slug: "2-airplane-outfit"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "9 min read"
+pillar: "vacation-packing-guide"
+---
 # What to Wear on the Plane for Vacation
 
 ## The Quick Answer

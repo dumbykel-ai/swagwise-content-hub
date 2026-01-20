@@ -1,3 +1,15 @@
+---
+title: "How to Hide Your Pregnancy at Work: Styling Strategies for Early Pregnancy"
+description: "To hide pregnancy at work, use visual misdirection: dark colors at the midsection, pattern and color above the waist, strategic layering with open ..."
+slug: "2-hide-pregnancy"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "11 min read"
+pillar: "maternity-style-guide"
+---
 # How to Hide Your Pregnancy at Work: Styling Strategies for Early Pregnancy
 
 ## The Quick Answer

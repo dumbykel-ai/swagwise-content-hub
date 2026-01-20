@@ -1,3 +1,15 @@
+---
+title: "Layering Strategies for Hot Flashes at Work"
+description: "Effective layering for hot flashes follows a three-tier system: a moisture-wicking base you keep on, an easy-removal middle layer for quick tempera..."
+slug: "2-layering-hot-flashes"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "13 min read"
+pillar: "hot-flashes-menopause-dressing"
+---
 # Layering Strategies for Hot Flashes at Work
 
 ## The Quick Answer

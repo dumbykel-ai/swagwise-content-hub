@@ -1,3 +1,14 @@
+---
+title: "Spring Wardrobe Refresh: The Complete Professional Guide"
+description: "A strategic spring wardrobe refresh involves assessing what you have, transitioning seasonal pieces thoughtfully, filling specific gaps, and buildi..."
+slug: "spring-wardrobe-guide"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Seasonal Style"
+keywords: []
+readTime: "11 min read"
+---
 # Spring Wardrobe Refresh: The Complete Professional Guide
 
 ## The Quick Answer

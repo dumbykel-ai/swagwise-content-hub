@@ -1,3 +1,15 @@
+---
+title: "What to Wear to Work in Your First Trimester Before You're Showing"
+description: "The best first trimester work outfits use strategic silhouettes that accommodate bloating and early body changes without announcing pregnancy: shif..."
+slug: "1-first-trimester-work"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "11 min read"
+pillar: "maternity-style-guide"
+---
 # What to Wear to Work in Your First Trimester Before You're Showing
 
 ## The Quick Answer

@@ -1,3 +1,15 @@
+---
+title: "All-Day Comfort When Experiencing Hot Flashes at Work"
+description: "All-day comfort during hot flashes requires a systems approach that extends beyond clothing choice to include workspace preparation, schedule manag..."
+slug: "4-all-day-comfort"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "12 min read"
+pillar: "hot-flashes-menopause-dressing"
+---
 # All-Day Comfort When Experiencing Hot Flashes at Work
 
 ## The Quick Answer

@@ -1,3 +1,15 @@
+---
+title: "Best Fabrics for Hot Flashes at Work"
+description: "The best fabrics for managing hot flashes at work are moisture-wicking performance blends, fine merino wool, bamboo, and breathable cotton weaves—a..."
+slug: "1-fabrics-hot-flashes"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "12 min read"
+pillar: "hot-flashes-menopause-dressing"
+---
 # Best Fabrics for Hot Flashes at Work
 
 ## The Quick Answer

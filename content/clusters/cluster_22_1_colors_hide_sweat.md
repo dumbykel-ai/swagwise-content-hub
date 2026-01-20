@@ -1,3 +1,15 @@
+---
+title: "Best Colors to Hide Sweat at Work"
+description: "The best colors for hiding sweat at work are black, navy blue, and very dark colors, while the worst color—by a significant margin—is light gray. S..."
+slug: "1-colors-hide-sweat"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "12 min read"
+pillar: "hiding-sweat-clothing"
+---
 # Best Colors to Hide Sweat at Work
 
 ## The Quick Answer

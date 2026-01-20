@@ -1,3 +1,15 @@
+---
+title: "Menopause-Friendly Workwear: What to Buy"
+description: "Menopause-friendly workwear prioritizes breathable fabrics, adjustable layering pieces, sweat-concealing colors, and comfortable fits that accommod..."
+slug: "3-menopause-workwear"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "13 min read"
+pillar: "hot-flashes-menopause-dressing"
+---
 # Menopause-Friendly Workwear: What to Buy
 
 ## The Quick Answer

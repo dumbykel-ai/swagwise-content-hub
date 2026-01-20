@@ -1,3 +1,15 @@
+---
+title: "Hiding Stains and Managing Spit-Up at Work"
+description: "Managing stains and spit-up at work requires a three-part strategy: prevention through color and fabric choices, preparation with emergency supplie..."
+slug: "2-stains-spit-up"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "13 min read"
+pillar: "returning-to-office-style"
+---
 # Hiding Stains and Managing Spit-Up at Work
 
 ## The Quick Answer

@@ -1,3 +1,14 @@
+---
+title: "Summer Vacation Packing for Professional Women"
+description: "Strategic summer vacation packing balances versatility, comfort, and style through a carefully curated capsule that handles multiple activities and..."
+slug: "vacation-packing-guide"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Travel Style"
+keywords: []
+readTime: "10 min read"
+---
 # Summer Vacation Packing for Professional Women
 
 ## The Quick Answer

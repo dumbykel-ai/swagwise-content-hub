@@ -1,3 +1,15 @@
+---
+title: "Packing Light: Carry-On Only Travel Tips"
+description: "Carry-on only travel is possible for virtually any trip length with strategic packing—choosing versatile pieces, maximizing every cubic inch, and e..."
+slug: "4-carry-on-packing"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "9 min read"
+pillar: "vacation-packing-guide"
+---
 # Packing Light: Carry-On Only Travel Tips
 
 ## The Quick Answer

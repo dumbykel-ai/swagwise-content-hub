@@ -1,3 +1,15 @@
+---
+title: "Dressing Your Postpartum Belly Professionally"
+description: "Dressing a postpartum belly professionally involves strategic silhouette choices—empire waists, A-line shapes, and high-waisted bottoms with untuck..."
+slug: "3-postpartum-belly"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "17 min read"
+pillar: "postpartum-style-guide"
+---
 # Dressing Your Postpartum Belly Professionally
 
 ## The Quick Answer

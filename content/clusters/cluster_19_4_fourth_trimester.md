@@ -1,3 +1,15 @@
+---
+title: "Fourth Trimester Style: Weeks 0-12 Postpartum"
+description: "The fourth trimester—weeks 0-12 postpartum—requires a wardrobe approach centered entirely on healing, functionality, and survival rather than style..."
+slug: "4-fourth-trimester"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "16 min read"
+pillar: "postpartum-style-guide"
+---
 # Fourth Trimester Style: Weeks 0-12 Postpartum
 
 ## The Quick Answer

@@ -1,3 +1,15 @@
+---
+title: "Resort Wear: Day to Night Vacation Outfits"
+description: "Day-to-night resort dressing relies on versatile pieces that transition from beach and pool activities to evening dining with minimal changes—typic..."
+slug: "3-day-to-night"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "8 min read"
+pillar: "vacation-packing-guide"
+---
 # Resort Wear: Day to Night Vacation Outfits
 
 ## The Quick Answer

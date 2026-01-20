@@ -1,3 +1,15 @@
+---
+title: "First Trimester Bloating: What to Wear When Nothing Fits Right"
+description: "First trimester bloating requires stretchy waistbands that expand throughout the day, dark colors at the midsection, flowy tops that don't cling, a..."
+slug: "4-bloating"
+date: "2026-01-20"
+lastModified: "2026-01-20"
+author: "Swagwise Team"
+category: "Style Guide"
+keywords: []
+readTime: "11 min read"
+pillar: "maternity-style-guide"
+---
 # First Trimester Bloating: What to Wear When Nothing Fits Right
 
 ## The Quick Answer
