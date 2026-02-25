@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import ArticleCard from '@/components/ArticleCard'
+import TodaysOutfit from '@/components/TodaysOutfit'
 import { getAllArticles, getAllPillars } from '@/lib/articles'
 
 export default function Home() {
@@ -54,6 +55,9 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* Today's Outfit Section */}
+      <TodaysOutfit />
 
       {/* Pillar Guides Section */}
       <section className="py-20">
